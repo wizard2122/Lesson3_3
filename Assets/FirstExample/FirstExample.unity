@@ -500,7 +500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sherif: {fileID: 317562137}
   _target: {fileID: 1382366479}
-  _patrolPoint:
+  _patrolPoints:
   - {fileID: 768945612}
   - {fileID: 1829607172}
   - {fileID: 865820486}

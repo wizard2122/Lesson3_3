@@ -4,6 +4,6 @@
     {
         Human,
         Ork,
-        Elf
+        Elf,
     }
 }

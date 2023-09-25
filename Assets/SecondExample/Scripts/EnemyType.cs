@@ -1,10 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 public enum EnemyType
 {
-   Small,
+   Small = 0,
    Medium,
    Large,
 }

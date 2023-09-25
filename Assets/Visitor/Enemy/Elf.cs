@@ -1,6 +1,6 @@
 ﻿namespace Assets.Visitor
 {
-    public class Elf: Enemy
+    public class Elf : Enemy
     {
     }
 }
